@@ -11,7 +11,7 @@ const IndexPage = () => {
         <Layout>
         <Head title="Home" />
             <h2 className={indexStyles.title}>“You may delay, but time will not.” <em className={indexStyles.quoteAuthor}>~Benjamin Franklin</em></h2>
-            <img className={indexStyles.image} src={ homeImage } alt="Titi and martin"/>
+            <img className={indexStyles.image} src={ homeImage } alt="Desk with notebooks and a laptop"/>
         </Layout>
     )
 
