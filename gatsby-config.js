@@ -70,6 +70,12 @@ module.exports = {
         crossOrigin: `use-credentials`,
       },
     },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `roadtoproductive`
+      }
+    },
   ]
     }
 
