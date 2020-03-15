@@ -9,7 +9,7 @@ date: "15/03/2020"
 If you're asking yourself the question, "why should I even bother being productive?", then this blog is a great place to start. The fact that you ended up on here reading this is already an indication of your interest. Here are a couple of good reasons to improve your productivity.
 
 1. **Self-improvement** - This one is my favorite. Becoming the best version of ourselves is something we should all aspire to do. It's a no-brainer, practice makes perfect.
-2. **Mental health** -  You know that feeling you get when you get through all your work, come back from a run or maw the lawn? It's a feeling of accomplishment and it improves your mood. If you enjoy that feeling, what's stopping you from feeling it more often?
+2. **Mental health** -  You know that feeling you get when you get through all your work, come back from a run or mow the lawn? It's a feeling of accomplishment and it improves your mood. If you enjoy that feeling, what's stopping you from feeling it more often?
 3. **Success** - This one is a little subjective. Everyone's idea of success is different. One can measure success in money, family time or fitness. Whatever it is for you, being more productive will make you more successful. 
 
 ## Getting Started
